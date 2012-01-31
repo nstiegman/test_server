@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  id_code: MyString
+  x_pos: 1
+  y_pos: 1
+  location_id: 1
+  content: MyString
+
+two:
+  id_code: MyString
+  x_pos: 1
+  y_pos: 1
+  location_id: 1
+  content: MyString

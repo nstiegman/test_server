@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  light_id: 1
+  location_id: 1
+  position_time: 2012-01-30 19:17:07
+
+two:
+  light_id: 1
+  location_id: 1
+  position_time: 2012-01-30 19:17:07

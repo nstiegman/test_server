@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Id code:</b>
+  <%= @light.id_code %>
+</p>
+
+<p>
+  <b>X pos:</b>
+  <%= @light.x_pos %>
+</p>
+
+<p>
+  <b>Y pos:</b>
+  <%= @light.y_pos %>
+</p>
+
+<p>
+  <b>Location:</b>
+  <%= @light.location_id %>
+</p>
+
+<p>
+  <b>Content:</b>
+  <%= @light.content %>
+</p>
+
+
+<%= link_to 'Edit', edit_light_path(@light) %> |
+<%= link_to 'Back', lights_path %>
