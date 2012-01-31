@@ -2,10 +2,10 @@
 
 one:
   light_id: 1
-  location_id: 1
-  position_time: 2012-01-30 19:17:07
+  device_id: 1
+  position_time: 2012-01-30 19:53:37
 
 two:
   light_id: 1
-  location_id: 1
-  position_time: 2012-01-30 19:17:07
+  device_id: 1
+  position_time: 2012-01-30 19:53:37
